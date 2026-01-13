@@ -18,20 +18,6 @@ O projeto faz parte de um desafio de curso e tem como foco a aplicação prátic
 
 ---
 
-## 📁 Estrutura do Repositório
-
-delivery-analise-dados/
-│
-├── dados/
-│ ├── pedidos.csv
-│ └── cardapio.csv
-│
-├── analise_delivery.ipynb
-├── README.md
-└── requirements.txt
-
----
-
 ## 🗂️ Descrição dos Dados
 
 ### 📄 pedidos.csv
